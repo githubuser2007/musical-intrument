@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+
+button{
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 10px ;
+    width: 25%;
+    height: 100px;
+    background-color: pink;
+}
